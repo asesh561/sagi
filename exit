@@ -1,0 +1,38 @@
+[33mcommit 88396dace86677fb18ef7916ea01ea9a68e2b8ef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 32e7fa5 868e6b4
+Author: SblTeam <venkatesh@tulassi.com>
+Date:   Tue Jul 16 15:16:08 2024 +0530
+
+    Merge pull request #1 from SblTeam/venkey
+    
+    Fix bug: userrights added
+
+[33mcommit 868e6b400501a1808e032ec8d4effb6c23881366[m[33m ([m[1;32mpr1[m[33m)[m
+Author: sagi <venkatesh@tulassi.com>
+Date:   Tue Jul 16 15:12:20 2024 +0530
+
+    Fix bug: userrights added
+
+[33mcommit 32e7fa583abc79c070bf80fb1f8b43e65fa14c94[m
+Author: SblTeam <venkatesh@tulassi.com>
+Date:   Tue Jul 16 12:41:29 2024 +0530
+
+    README.md
+
+[33mcommit 387426974942fe373b1d400876e9eca18c586759[m[33m ([m[1;31morigin/venkey[m[33m, [m[1;31morigin/asesh[m[33m, [m[1;32mvenkey[m[33m, [m[1;32masesh[m[33m)[m
+Author: sagi <venkatesh@tulassi.com>
+Date:   Tue Jul 16 12:38:02 2024 +0530
+
+    Commit message for sagi peoject
+
+[33mcommit 7ab8ffdc36e7f4720db71b8463948bed4dceada2[m
+Author: sagi <venkatesh@tulassi.com>
+Date:   Tue Jul 16 11:24:41 2024 +0530
+
+    Added my_folder to staging area
+
+[33mcommit 36f8b2831a82bbbe7661328dd9a2c99c1b6973b4[m
+Author: sagi <venkatesh@tulassi.com>
+Date:   Tue Jul 16 11:12:42 2024 +0530
+
+    commening test
